@@ -2,8 +2,8 @@
 
 ## 04월 18일 멀티미디어 태그 연습
 > img tag 연습 <br>
-audio tag 연습
-video tag 연습
+audio tag 연습 <br>
+video tag 연습 <br>
 유튜브 동영상 삽입 숙제
 
 ## 04월 11일 실습내용
