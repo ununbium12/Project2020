@@ -1,6 +1,6 @@
 /*
 * Fill Name: index.html v0.3.0
-* Update: 2020.04.11
+* Update: 2020.04.18
 * Author: developern
 */
 
@@ -41,6 +41,12 @@ ul li a {
     text-align: center;
     background-color: rgb(104, 104, 175);
 }
+.article-bg2 {
+    height: 550px;
+    padding: 15px;
+    text-align: center;
+    background-color: rgb(14, 124, 0);
+}
 
 /* box model test */
 .box1 {
@@ -71,4 +77,28 @@ ul li a {
     background-color: brown;
     border: 10px solid black;
     box-shadow: 10px 10px 5px 5px black;
+}
+
+/* 멀티미디어 연습 */
+.img-size1 {
+    width: 250px;
+    height: 250px;
+    margin: 25px;
+}
+.img-size2 {
+    width: 250px;
+    height: 100px;
+    margin: 25px;
+}
+.b-radius1 {
+    border-radius: 10%;
+}
+.b-radius2 {
+    border-radius: 25%;
+}
+.b-radius3 {
+    border-radius: 50%;
+}
+.b-radius4 {
+    border-radius: 80%;
 }
