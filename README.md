@@ -1,5 +1,8 @@
 # Project2020 - 정다훈
 
+## 04월 28일 테이블 태그 연습\
+> table tag 연습 <br>
+
 ## 04월 18일 멀티미디어 태그 연습
 > img tag 연습 <br>
 audio tag 연습 <br>
